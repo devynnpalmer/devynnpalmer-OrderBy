@@ -30,7 +30,8 @@ import java.util.List;
  */
 public class OrderResultSetActivity {
     /**
-     *
+     *      dune is my favorite! :)
+     * 
      *      character table
      *      | id |  first_name  |  last_name  |
      *      -----------------------------------
